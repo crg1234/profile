@@ -50,7 +50,8 @@ img {
 .card {
   background-color: whitesmoke;
   margin: 2%;
-  padding: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   padding-left: 50px;
   padding-right: 50px;
   border-radius: 8px;
